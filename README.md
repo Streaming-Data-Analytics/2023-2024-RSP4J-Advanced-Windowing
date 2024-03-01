@@ -1,7 +1,9 @@
 
 # 2023-2024 RSP4J-Advanced Windowing
 
-Optional #project of the [Streaming Data Analytics](http://emanueledellavalle.org/teaching/streaming-data-analytics-2022-23/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=1b82965d3c68857e2087d3f3b98a9e40)
+Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org/teaching/streaming-data-analytics-2023-24/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=d563c55e73c3035baf5b0bab2dda086b).
+
+Student: **[To be assigned]**
 
 ### Prerequisites
 
@@ -68,3 +70,13 @@ The project should work with two datasets,
 
 - [Frames](https://kops.uni-konstanz.de/server/api/core/bitstreams/55c23a7a-242f-4530-bee9-b2597fb5b76a/content)
 - [RSP4J](https://openreview.net/pdf?id=IbXJmD1i2WA)
+
+## Note for Students
+
+* Clone the created repository offline;
+* Add your name and surname into the Readme file;
+* Make any changes to your repository, according to the specific assignment;
+* Add a `requirement.txt` file for code reproducibility and instructions on how to replicate the results;
+* Add an open-source license, e.g., Apache 2.0;
+* Commit your changes to your local repository;
+* Push your changes to your online repository.
